@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EnumEx01/EnumEx01.iml" filepath="$PROJECT_DIR$/EnumEx01/EnumEx01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExcelEx01/ExcelEx01.iml" filepath="$PROJECT_DIR$/ExcelEx01/ExcelEx01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GenericEx01/GenericEx01.iml" filepath="$PROJECT_DIR$/GenericEx01/GenericEx01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InnerEx01/InnerEx01.iml" filepath="$PROJECT_DIR$/InnerEx01/InnerEx01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBCEx01/JDBCEx01.iml" filepath="$PROJECT_DIR$/JDBCEx01/JDBCEx01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBCEx02/JDBCEx02.iml" filepath="$PROJECT_DIR$/JDBCEx02/JDBCEx02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEx01/JavaEx01.iml" filepath="$PROJECT_DIR$/JavaEx01/JavaEx01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaProjects.iml" filepath="$PROJECT_DIR$/.idea/JavaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaEx01/LambdaEx01.iml" filepath="$PROJECT_DIR$/LambdaEx01/LambdaEx01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LangEx01/LangEx01.iml" filepath="$PROJECT_DIR$/LangEx01/LangEx01.iml" />
+    </modules>
+  </component>
+</project>

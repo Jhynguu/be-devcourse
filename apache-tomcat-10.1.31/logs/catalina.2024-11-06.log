@@ -1,0 +1,54 @@
+06-Nov-2024 11:54:04.177 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 서버 버전 이름:    Apache Tomcat/10.1.31
+06-Nov-2024 11:54:04.180 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Server 빌드 시각:  Oct 3 2024 19:02:38 UTC
+06-Nov-2024 11:54:04.180 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Server 버전 번호:  10.1.31.0
+06-Nov-2024 11:54:04.181 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 이름:     Windows 11
+06-Nov-2024 11:54:04.182 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 버전:     10.0
+06-Nov-2024 11:54:04.182 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 아키텍처:          amd64
+06-Nov-2024 11:54:04.182 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 자바 홈:           C:\Program Files\Zulu\zulu-17
+06-Nov-2024 11:54:04.182 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 버전:          17.0.12+7-LTS
+06-Nov-2024 11:54:04.182 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 벤더:          Azul Systems, Inc.
+06-Nov-2024 11:54:04.182 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     C:\java\apache-tomcat-10.1.31
+06-Nov-2024 11:54:04.182 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     C:\java\apache-tomcat-10.1.31
+06-Nov-2024 11:54:04.190 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.util.logging.config.file=C:\java\apache-tomcat-10.1.31\conf\logging.properties
+06-Nov-2024 11:54:04.190 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+06-Nov-2024 11:54:04.190 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djdk.tls.ephemeralDHKeySize=2048
+06-Nov-2024 11:54:04.190 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+06-Nov-2024 11:54:04.191 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.lang=ALL-UNNAMED
+06-Nov-2024 11:54:04.191 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.io=ALL-UNNAMED
+06-Nov-2024 11:54:04.191 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.util=ALL-UNNAMED
+06-Nov-2024 11:54:04.191 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+06-Nov-2024 11:54:04.191 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+06-Nov-2024 11:54:04.191 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dcatalina.base=C:\java\apache-tomcat-10.1.31
+06-Nov-2024 11:54:04.192 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dcatalina.home=C:\java\apache-tomcat-10.1.31
+06-Nov-2024 11:54:04.192 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.io.tmpdir=C:\java\apache-tomcat-10.1.31\temp
+06-Nov-2024 11:54:04.341 정보 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR 버전 [1.7.4]을(를) 사용한, APR 기반 Apache Tomcat Native 라이브러리 [2.0.8]을(를) 로드했습니다.
+06-Nov-2024 11:54:04.347 정보 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL이 성공적으로 초기화되었습니다: [OpenSSL 3.0.14 4 Jun 2024]
+06-Nov-2024 11:54:04.520 정보 [main] org.apache.coyote.AbstractProtocol.init 프로토콜 핸들러 ["http-nio-8080"]을(를) 초기화합니다.
+06-Nov-2024 11:54:04.539 정보 [main] org.apache.catalina.startup.Catalina.load [519] 밀리초 내에 서버가 초기화되었습니다.
+06-Nov-2024 11:54:04.574 정보 [main] org.apache.catalina.core.StandardService.startInternal 서비스 [Catalina]을(를) 시작합니다.
+06-Nov-2024 11:54:04.574 정보 [main] org.apache.catalina.core.StandardEngine.startInternal 서버 엔진을 시작합니다: [Apache Tomcat/10.1.31]
+06-Nov-2024 11:54:04.583 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\java\apache-tomcat-10.1.31\webapps\docs]을(를) 배치합니다.
+06-Nov-2024 11:54:04.826 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\java\apache-tomcat-10.1.31\webapps\docs]에 대한 배치가 [241] 밀리초에 완료되었습니다.
+06-Nov-2024 11:54:04.826 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\java\apache-tomcat-10.1.31\webapps\examples]을(를) 배치합니다.
+06-Nov-2024 11:54:05.277 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\java\apache-tomcat-10.1.31\webapps\examples]에 대한 배치가 [450] 밀리초에 완료되었습니다.
+06-Nov-2024 11:54:05.277 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\java\apache-tomcat-10.1.31\webapps\host-manager]을(를) 배치합니다.
+06-Nov-2024 11:54:05.303 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\java\apache-tomcat-10.1.31\webapps\host-manager]에 대한 배치가 [25] 밀리초에 완료되었습니다.
+06-Nov-2024 11:54:05.303 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\java\apache-tomcat-10.1.31\webapps\manager]을(를) 배치합니다.
+06-Nov-2024 11:54:05.327 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\java\apache-tomcat-10.1.31\webapps\manager]에 대한 배치가 [24] 밀리초에 완료되었습니다.
+06-Nov-2024 11:54:05.327 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\java\apache-tomcat-10.1.31\webapps\ROOT]을(를) 배치합니다.
+06-Nov-2024 11:54:05.342 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\java\apache-tomcat-10.1.31\webapps\ROOT]에 대한 배치가 [15] 밀리초에 완료되었습니다.
+06-Nov-2024 11:54:05.345 정보 [main] org.apache.coyote.AbstractProtocol.start 프로토콜 핸들러 ["http-nio-8080"]을(를) 시작합니다.
+06-Nov-2024 11:54:05.371 정보 [main] org.apache.catalina.startup.Catalina.start 서버가 [830] 밀리초 내에 시작되었습니다.
+06-Nov-2024 12:33:55.802 정보 [http-nio-8080-exec-6] org.apache.coyote.http11.Http11Processor.service HTTP 요청 헤더를 파싱하는 중 오류 발생
+ 비고: HTTP 요청 파싱 오류들이 더 발생하는 경우 DEBUG 레벨 로그로 기록될 것입니다.
+	java.lang.IllegalArgumentException: 메소드 이름에 유효하지 않은 문자가 발견되었습니다. HTTP 메소드 이름은 유효한 토큰이어야 합니다.
+		at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:406)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:257)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:840)
