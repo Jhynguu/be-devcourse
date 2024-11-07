@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script type="text/javascript">
+      const viewGugudan = function () {
+        const startDan = parseInt(document.frm.startdan.value);
+        const endDan = parseInt(document.frm.enddan.value);
+
+        let html = '<table border="1" cellspacing="0" width="800">';
+        for (let i = startDan; i <= endDan; i++) {
+          html += "<tr>";
+          for (let j = 1; j <= 9; j++) {
+            html += "<td>" + i + " X " + j + " = " + i * j + "</td>";
+          }
+          html += "</tr>";
+        }
+        html += "<table>";
+
+        const div = document.getElementById("result");
+        div.innerHTML = html;
+      };
+    </script>
+  </head>
+  <body>
+    <table border="1" cellspacing="0">
+      <tr>
+        <td>
+          <form name="frm">
+            시작단 :
+            <input type="text" name="startdan" placeholder="시작단" /> ~ 끝단 :
+            <input type="text" name="enddan" placeholder="끝단" />
+            <input type="button" value="구구단 출력" onclick="viewGugudan()" />
+          </form>
+        </td>
+      </tr>
+    </table>
+
+    <br />
+    <hr />
+    <br />
+
+    <div id="result"></div>
+  </body>
+</html>
