@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6dd81d3c-1bf0-44c3-8c17-fcf89c630287" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../2024_11_08/JSPProjects/BoardEx01/src/main/java/org/example/model/BoardDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_08/JSPProjects/BoardEx01/src/main/java/org/example/model/BoardTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_08/JSPProjects/BoardEx01/src/main/webapp/mariadb/design_simple2/import.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_08/JSPProjects/BoardEx01/src/main/webapp/mariadb/model1/board_delete1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_08/JSPProjects/BoardEx01/src/main/webapp/mariadb/model1/board_delete1_ok.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_08/JSPProjects/BoardEx01/src/main/webapp/mariadb/model1/board_list1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_08/JSPProjects/BoardEx01/src/main/webapp/mariadb/model1/board_modify1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_08/JSPProjects/BoardEx01/src/main/webapp/mariadb/model1/board_modify1_ok.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_08/JSPProjects/BoardEx01/src/main/webapp/mariadb/model1/board_view1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_08/JSPProjects/BoardEx01/src/main/webapp/mariadb/model1/board_write1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_08/JSPProjects/BoardEx01/src/main/webapp/mariadb/model1/board_write1_ok.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_11/Model2/src/main/java/org/example/controller1/Action.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_11/Model2/src/main/java/org/example/controller1/ControllerEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_11/Model2/src/main/java/org/example/controller1/View1Action.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_11/Model2/src/main/java/org/example/controller1/View2Action.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_11/Model2/src/main/webapp/WEB-INF/views/view1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_11/Model2/src/main/webapp/WEB-INF/views/view2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_11/Model3/src/main/java/org/example/controller/ControllerServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_11/Model3/src/main/java/org/example/model1/ZipcodeDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_11/Model3/src/main/java/org/example/model1/ZipcodeTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_11/Model3/src/main/java/org/example/model2/Action.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_11/Model3/src/main/java/org/example/model2/FormAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_11/Model3/src/main/java/org/example/model2/FormOkAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_11/Model3/src/main/java/org/example/model2/ZipcodeAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_11/Model3/src/main/java/org/example/model2/ZipcodeOkAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_11/Model3/src/main/webapp/META-INF/context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_11/Model3/src/main/webapp/WEB-INF/views/form.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_11/Model3/src/main/webapp/WEB-INF/views/form_ok.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_11/Model3/src/main/webapp/WEB-INF/views/zipcode.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_11/Model3/src/main/webapp/WEB-INF/views/zipcode_ok.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_11/demo/src/main/java/org/example/model/BoardTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_11/demo/src/main/java/org/example/model/DataDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_11/demo/src/main/java/org/example/model/DataTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_11/demo/src/main/java/org/example/model/MemberTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_11/demo/src/main/webapp/META-INF/context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_11/demo/src/main/webapp/bean1/bean1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_11/demo/src/main/webapp/bean1/bean2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_11/demo/src/main/webapp/bean1/bean3.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_11/demo/src/main/webapp/bean1/bean4.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_11/demo/src/main/webapp/bean1/bean5.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_11/demo/src/main/webapp/bean1/lombok.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_11/demo/src/main/webapp/forward1/a.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_11/demo/src/main/webapp/forward1/b.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_11/demo/src/main/webapp/forward1/index1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_11/demo/src/main/webapp/forward1/index2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_11/demo/src/main/webapp/forward1/sub1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_11/demo/src/main/webapp/include1/index1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_11/demo/src/main/webapp/include1/index2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_11/demo/src/main/webapp/include1/sub1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_11/demo/src/main/webapp/include1/sub2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_11/demo/src/main/webapp/include1/sub3.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_11/demo/src/main/webapp/include1/sub4.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletEx01/src/main/java/org/example/servlet/ServletEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletEx01/src/main/java/org/example/servlet/ServletEx02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletEx01/src/main/java/org/example/servlet/ServletEx03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletEx01/src/main/webapp/form.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletEx02/src/main/java/org/example/servlet/GugudanOkServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletEx02/src/main/java/org/example/servlet/GugudanServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_13/BoardEx02/src/main/java/org/example/controller/BoardController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_13/BoardEx02/src/main/java/org/example/model2/Action.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_13/BoardEx02/src/main/java/org/example/model2/DeleteAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_13/BoardEx02/src/main/java/org/example/model2/DeleteOkAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_13/BoardEx02/src/main/java/org/example/model2/ListAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_13/BoardEx02/src/main/java/org/example/model2/ModifyAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_13/BoardEx02/src/main/java/org/example/model2/ModifyOkAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_13/BoardEx02/src/main/java/org/example/model2/ViewAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_13/BoardEx02/src/main/java/org/example/model2/WriteAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_13/BoardEx02/src/main/java/org/example/model2/WriteOkAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_13/BoardEx02/src/main/webapp/META-INF/views/board_delete1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_13/BoardEx02/src/main/webapp/META-INF/views/board_delete1_ok.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_13/BoardEx02/src/main/webapp/META-INF/views/board_list1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_13/BoardEx02/src/main/webapp/META-INF/views/board_modify1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_13/BoardEx02/src/main/webapp/META-INF/views/board_modify1_ok.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_13/BoardEx02/src/main/webapp/META-INF/views/board_view1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_13/BoardEx02/src/main/webapp/META-INF/views/board_write1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2024_11_13/BoardEx02/src/main/webapp/META-INF/views/board_write1_ok.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2024_11_08/JSPProjects/BoardEx01/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2024_11_08/JSPProjects/BoardEx01/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2024_11_08/JSPProjects/BoardEx01/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../2024_11_08/JSPProjects/BoardEx01/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2024_11_08/JSPProjects/BoardEx01/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../2024_11_08/JSPProjects/BoardEx01/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2024_11_08/JSPProjects/BoardEx01/src/main/webapp/mariadb/design_simple1/board_delete1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../2024_11_08/JSPProjects/BoardEx01/src/main/webapp/mariadb/design_simple1/board_delete1.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2024_11_08/JSPProjects/BoardEx01/src/main/webapp/mariadb/design_simple1/board_delete1_ok.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../2024_11_08/JSPProjects/BoardEx01/src/main/webapp/mariadb/design_simple1/board_delete1_ok.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2024_11_08/JSPProjects/BoardEx01/src/main/webapp/mariadb/design_simple1/board_list1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../2024_11_08/JSPProjects/BoardEx01/src/main/webapp/mariadb/design_simple1/board_list1.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2024_11_08/JSPProjects/BoardEx01/src/main/webapp/mariadb/design_simple1/board_modify1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../2024_11_08/JSPProjects/BoardEx01/src/main/webapp/mariadb/design_simple1/board_modify1.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2024_11_08/JSPProjects/BoardEx01/src/main/webapp/mariadb/design_simple1/board_modify1_ok.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../2024_11_08/JSPProjects/BoardEx01/src/main/webapp/mariadb/design_simple1/board_modify1_ok.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2024_11_08/JSPProjects/BoardEx01/src/main/webapp/mariadb/design_simple1/board_view1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../2024_11_08/JSPProjects/BoardEx01/src/main/webapp/mariadb/design_simple1/board_view1.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-10.1.31/webapps/BoardEx01/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../apache-tomcat-10.1.31/webapps/BoardEx01/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-10.1.31/webapps/BoardEx01/mariadb/design_simple1/board_delete1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../apache-tomcat-10.1.31/webapps/BoardEx01/mariadb/design_simple1/board_delete1.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-10.1.31/webapps/BoardEx01/mariadb/design_simple1/board_delete1_ok.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../apache-tomcat-10.1.31/webapps/BoardEx01/mariadb/design_simple1/board_delete1_ok.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-10.1.31/webapps/BoardEx01/mariadb/design_simple1/board_list1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../apache-tomcat-10.1.31/webapps/BoardEx01/mariadb/design_simple1/board_list1.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-10.1.31/webapps/BoardEx01/mariadb/design_simple1/board_modify1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../apache-tomcat-10.1.31/webapps/BoardEx01/mariadb/design_simple1/board_modify1.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-10.1.31/webapps/BoardEx01/mariadb/design_simple1/board_modify1_ok.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../apache-tomcat-10.1.31/webapps/BoardEx01/mariadb/design_simple1/board_modify1_ok.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-10.1.31/webapps/BoardEx01/mariadb/design_simple1/board_view1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../apache-tomcat-10.1.31/webapps/BoardEx01/mariadb/design_simple1/board_view1.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="BoardEx02" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2ojW0g8eWHWYJdPRiZmv7MYdaDi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build BoardEx02.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Tomcat Server.Tomcat 10.1.31.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/java/2024_11_12/BoardEx02",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\java\2024_11_12\BoardEx02\src\main\webapp\WEB-INF\views" />
+      <recent name="C:\java\2024_11_12\BoardEx02\src\main\webapp\WEB-INF" />
+      <recent name="C:\java\2024_11_12\BoardEx02\src\main\webapp" />
+      <recent name="C:\java\2024_11_12\BoardEx02\src\main\webapp\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\java\2024_11_12\BoardEx02\src\main\webapp\css" />
+      <recent name="C:\java\2024_11_12\BoardEx02\src\main\java\org\example\model1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 10.1.31" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.31" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8081/Gradle___org_example___BoardEx02_1_0_SNAPSHOT_war/" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8;" />
+      <option name="UPDATING_POLICY" value="hot-swap-classes" />
+      <deployment>
+        <artifact name="Gradle : org.example : BoardEx02-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Gradle___org_example___BoardEx02_1_0_SNAPSHOT_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="74662957-0071-404a-bedf-e6cb00fdc91f" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="64591" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : org.example : BoardEx02-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6dd81d3c-1bf0-44c3-8c17-fcf89c630287" name="Changes" comment="" />
+      <created>1731383246319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731383246319</updated>
+      <workItem from="1731383247267" duration="1751000" />
+      <workItem from="1731464111654" duration="14000" />
+      <workItem from="1731468683368" duration="1581000" />
+      <workItem from="1731480281454" duration="528000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

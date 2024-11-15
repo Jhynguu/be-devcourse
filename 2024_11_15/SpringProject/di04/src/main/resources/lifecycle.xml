@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- lifecycle.xml -->
+    <!-- init-method - 각각 -->
+    <bean id="writeAction" class="org.example.lifecycle.WriteAction" init-method="init_method" destroy-method="destroy_method">
+        <!-- 해당 빈의 프로퍼티를 설정하기 위해 setWriter 메서드가 자동으로 호출됨 -->
+        <property name="writer">
+            <value>홍길동</value>
+        </property>
+    </bean>
+    <!-- 전체 빈에 대한.. -->
+    <bean class="org.example.lifecycle.CustomBeanPostProcessor"/>
+</beans>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- di04 부분
+    <bean id="to" class="org.example.di04.BoardTO"/>
+    <bean id="action" class="org.example.di04.WriteAction">
+        <constructor-arg>
+            <ref bean="to"/>
+        </constructor-arg>
+    </bean>
+    -->
+    <bean id="to" class="org.example.di06.BoardTO">
+        <property name="seq" value="10"/>
+        <property name="subject" value="제목"/>
+    </bean>
+
+    <bean id="action" class="org.example.di06.WriteAction">
+        <property name="to" ref="to"/>
+    </bean>
+</beans>
