@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: boot02
+
+logging:
+  level:
+    root: info
+  file:
+    path: c:\\java\\logs\application.log
+my:
+  name: tester
+  fullname: ${my.name} lecture
+  secret: ${random.value}

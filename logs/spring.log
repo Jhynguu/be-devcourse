@@ -1,0 +1,5 @@
+2024-11-18T15:38:24.897+09:00  INFO 26664 --- [boot02] [restartedMain] com.example.boot.Boot02Application       : Starting Boot02Application using Java 17.0.12 with PID 26664 (C:\java\2024_11_18\boot02\build\classes\java\main started by jhyngu in C:\java\2024_11_18\boot02)
+2024-11-18T15:38:24.899+09:00  INFO 26664 --- [boot02] [restartedMain] com.example.boot.Boot02Application       : No active profile set, falling back to 1 default profile: "default"
+2024-11-18T15:38:24.923+09:00  INFO 26664 --- [boot02] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-11-18T15:38:25.248+09:00  INFO 26664 --- [boot02] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-11-18T15:38:25.265+09:00  INFO 26664 --- [boot02] [restartedMain] com.example.boot.Boot02Application       : Started Boot02Application in 0.63 seconds (process running for 0.98)
