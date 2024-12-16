@@ -12,7 +12,7 @@
 form.jsp
 <br><br>
 
-<form action="form_ok3" method="post" enctype="multipart/form-data">
+<form action="form_ok2" method="post" enctype="multipart/form-data">
     아이디 : <input type="text" name="userid"><br>
     비밀번호 : <input type="password" name="userpw"><br>
     <br>
